@@ -4,7 +4,7 @@ public class Carro {
 
   String modelo;
   String marca;
-  int ano;
+  int ano; 
   String placa;
   String cor;
   boolean ligado;
